@@ -23,6 +23,13 @@ p{
 label{
     align-items: center;
 }
-form{
-    
+.input{
+    font-size: var(--fz-sm);
+    width: 100%;
+    margin-top: 1rem;
+    border:none ;
+}  
+.form{
+    background-color: darkblue;
+    border-radius: var(--radius);
 }
